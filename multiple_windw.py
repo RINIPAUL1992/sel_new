@@ -24,5 +24,3 @@ for id in mul_win_id:
 
 # driver.close()
 driver.quit()
-#close
-#testing
